@@ -41,22 +41,28 @@ Iteration 2: recipe page
 Iteration 3: recipe page content
 Add the following content:
     1. A free image of the finished dish under the h1 heading
+        DONE! 1/31/2026
 
     2. Under the image, add "Description" heading with a
         paragraph or two describing the recipe
+        DONE! 1/31/2026
 
     3. Under the description, add an "Ingredients" heading 
         followed by an unordered list of ingredients
+        DONE! 1/31/2026
 
     4. Under ingredients, add "Steps" heading followed by
         an ordered list of the steps needed for making
         the dish
+        DONE! 1/31/2026
 
 Iteration 4: add more recipes
     1. Add at least two more recipes with identical page
         structrues to the first recipe page created
+        DONE! Added 3 more cause I'm an over-achiever! 1/31/2026
 
     2. Don't forget links to new recipes and back to 
         the index page.  Consider using an unordered
         list so they aren't on one line
+        DONE! 1/31/2026
 
